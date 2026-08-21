@@ -99,12 +99,4 @@ Graduado em Análise e Desenvolvimento de Sistemas pela UNOPAR e atualmente curs
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=JPAB1&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-
-  </p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JPAB1/JPAB1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JPAB1/JPAB1/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JPAB1/JPAB1/output/github-contribution-grid-snake.svg">
-</picture>
-
+  
